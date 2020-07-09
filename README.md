@@ -4,7 +4,7 @@ My name is Ben. I work on machine learning at Facebook. [Here][blog-link] is my 
 
 <details>
   <summary><b>:telescope: 2020 goals</b></summary>
-  Improve spoken language skills; read, bike, rock climb more; do more open-source projects
+  Improve spoken language skills; read, bike, rock climb more; sleep and eat more consistently; work on more FOSS projects
 </details>
 
 [blog-link]: https://ben.bolte.cc/
