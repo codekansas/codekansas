@@ -3,13 +3,13 @@
 My name is Ben. I work on machine learning at Facebook. [Here][blog-link] is my blog. 我说一点中文, hablo un poco español, học tiếng việt
 
 <details>
-  <summary><b>:telescope: 2020 goals</b></summary>
+  <summary><b>:telescope: 2021 goals</b></summary>
   <ul>
-    <li>Improve spoken language skills</li>
-    <li>Read, bike, rock climb more</li>
-    <li>Sleep and eat more consistently</li>
-    <li>Work on more FOSS projects</li>
-    <li>Learn more about TinyML + ASIC design</li>
+    <li>Exercise daily</li>
+    <li>Sleep at regular times</li>
+    <li>Productivity tracking</li>
+    <li>Work really hard on something</li>
+  </ul>
 </details>
 
 <details>
