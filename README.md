@@ -1,6 +1,6 @@
 ### Hi there :wave:
 
-My name is Ben. I work on machine learning at Facebook. [Here][blog-link] is my blog. 我说一点中文, hablo un poco español, học tiếng việt
+My name is Ben. I work on machine learning at Tesla. [Here][blog-link] is my blog. 我说一点中文, hablo un poco español, học tiếng việt
 
 <details>
   <summary><b>:telescope: 2021 goals</b></summary>
