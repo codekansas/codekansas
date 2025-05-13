@@ -11,7 +11,3 @@ L^{CLIP}(\theta) = \hat{\mathbb{E}}_t \left[ \min\left( r_t(\theta) \, \hat{A}_t
 ```
 
 </div>
-
-<br />
-
-![GqTwrNLWsAAcZlj](https://github.com/user-attachments/assets/289f0787-2d65-43c7-9c7f-3ba9773eebe7)
